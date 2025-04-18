@@ -1,5 +1,7 @@
 # Prompt Management in GCP (Vertex AI)
 
+## For educational purposes 
+
 Prompt Management in GCP allows you to create, version, and store prompt templates for LLMs like Gemini. These templates can be reused across your AI apps, ensuring consistency and easy updates.
 
 
